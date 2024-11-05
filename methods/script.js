@@ -35,9 +35,9 @@
 
 // // Funksiyanı yoxlayırıq
 // console.log(convertToUpper("Hello World")); 
-function reverseWords(sentence) {
-  return sentence.split(" ").reverse().join(" ");
-}
+// function reverseWords(sentence) {
+//   return sentence.split(" ").reverse().join(" ");
+// }
 
 
-console.log(reverseWords("Hello World!")); 
+// console.log(reverseWords("Hello World!")); 
